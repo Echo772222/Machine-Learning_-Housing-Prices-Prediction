@@ -17,4 +17,8 @@ https://data.edmonton.ca/City-Administration/Property-Assessment-Data-2012-2016-
 
 2. Note that in Edmonton Open Property Assessment Data, the GPS locations are not available, however, you can leverage the GPS information.
 
+## Addtional Codes 
+Filtering.R: the data preprocessing step, the categorical and numerical data are cleaned and extracted for the next step.
+Prediction and Prediction RF: implementation of ML algorithm.
+
 
