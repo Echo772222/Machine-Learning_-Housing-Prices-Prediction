@@ -15,6 +15,6 @@ Apply ML algorithm to predict the prices of over 70,000+ houses in Edmonton.
 1. The online houses information from 2012 - 2016 can be retrived on:
 https://data.edmonton.ca/City-Administration/Property-Assessment-Data-2012-2016-/qi6a-xuwt/data
 
-Note that in Edmonton Open Property Assessment Data, the GPS locations are not available, however, you can leverage the GPS information.
+2. Note that in Edmonton Open Property Assessment Data, the GPS locations are not available, however, you can leverage the GPS information.
 
 
